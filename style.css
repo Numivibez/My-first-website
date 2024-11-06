@@ -1,0 +1,16 @@
+
+.btn{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: monospace;
+    margin: 10px 0px;
+    padding: 10px 5px;
+}
+
+input{}
